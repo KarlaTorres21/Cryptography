@@ -1,2 +1,6 @@
 # Cryptography
-Learning a little about crypto at ESCOM
+Practices implemented in the cryptography subject
+
+## Programming languages used :computer:
+* C++
+* Python
