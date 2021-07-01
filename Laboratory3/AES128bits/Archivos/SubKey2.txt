@@ -1,0 +1,50 @@
+A0   88   23   2A   
+FA   54   A3   6C   
+FE   2C   39   76   
+17   B1   39   5   
+
+F2   7A   59   73   
+C2   96   35   59   
+95   B9   80   F6   
+F2   43   7A   7F   
+
+3D   47   1E   6D   
+80   16   23   7A   
+47   FE   7E   88   
+7D   3E   44   3B   
+
+EF   A8   B6   DB   
+44   52   71   B   
+A5   5B   25   AD   
+41   7F   3B   0   
+
+D4   7C   CA   11   
+D1   83   F2   F9   
+C6   9D   B8   15   
+F8   87   BC   BC   
+
+6D   11   DB   CA   
+88   B   F9   0   
+A3   3E   86   93   
+7A   FD   41   FD   
+
+4E   5F   84   4E   
+54   5F   A6   A6   
+F7   C9   4F   DC   
+E   F3   B2   4F   
+
+EA   B5   31   7F   
+D2   8D   2B   8D   
+73   BA   F5   29   
+21   D2   60   2F   
+
+AC   19   28   57   
+77   FA   D1   5C   
+66   DC   29   0   
+F3   21   41   6E   
+
+D0   C9   E1   B6   
+14   EE   3F   63   
+F9   25   C   C   
+A8   89   C8   A6   
+

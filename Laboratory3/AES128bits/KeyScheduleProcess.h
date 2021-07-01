@@ -1,0 +1,22 @@
+/*  @brief KeyScheduleProcess.h
+*   Libreria que contiene los prototipos de las
+*   funciones intermedias para calcular las
+*   subclaves
+*/
+
+#ifndef KEYSCHEDULEPROCESS_H
+#define KEYSCHEDULEPROCESS_H
+
+#include <bits/stdc++.h>
+
+using namespace std;
+
+void getKey( string nameFile, string *keyString );
+void keyBit( string keyString, bitset<8> W[4][4] );
+void RotBytes( bitset<8> W[4][4], bitset<8> T[4][1] );
+void SubBytes( bitset<8> T[4][1] );
+void XorRC( bitset<8> T[4][1], int i );
+void modifyValues( bitset<8> T[4][1], bitset<8> W[4][4] );
+void imprimirMatriz( bitset<8> W[4][4] );
+
+#endif 
